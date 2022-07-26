@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Nav from "../Nav";
 import About from "../About";
-// import Projects from '../Projects';
+import Projects from '../Projects';
 // import Contact from '../Contact';
 import Footer from "../Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -17,8 +17,8 @@ function Portfolio() {
         return <About></About>;
       //   case "contact":
       //     return <Contact></Contact>;
-      //   case "portfolio":
-      //     return <Projects></Projects>;
+      case "portfolio":
+        return <Projects></Projects>;
       default:
         return <About></About>;
     }
