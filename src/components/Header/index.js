@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Nav from "../Nav";
 import About from "../About";
 import Projects from '../Projects';
-// import Contact from '../Contact';
+import Contact from '../Contact';
 import Footer from "../Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -15,8 +15,8 @@ function Portfolio() {
     switch (currentPage) {
       case "about":
         return <About></About>;
-      //   case "contact":
-      //     return <Contact></Contact>;
+        case "contact":
+          return <Contact></Contact>;
       case "portfolio":
         return <Projects></Projects>;
       default:
