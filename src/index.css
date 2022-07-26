@@ -15,8 +15,25 @@ code {
 #my-image {
   height: 400px;
   border-radius: 50%;
+  margin-bottom: 40px;
+  margin-top: 45px;
 }
 
 .project-img {
   height: 200px;
+}
+
+.nav {
+  font-size: 40px;
+  
+}
+
+
+body {
+  background-color: #EDEDF5;
+}
+
+.page-footer {
+  margin-top: 140px;
+
 }
