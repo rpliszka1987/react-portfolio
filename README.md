@@ -35,6 +35,6 @@ This is my presonal portfolio which shows my skills. There is a page that lists 
 ## Links
 
 - Github Repository - https://github.com/rpliszka1987/react-portfolio
-- URL - https://rpliszka1987.github.io/react-portfolio/
+- URL - https://cryptic-cove-95198.herokuapp.com/
 
 [Back to Top](#react-portfolio)
