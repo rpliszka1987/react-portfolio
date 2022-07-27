@@ -44,7 +44,9 @@ function Projects() {
   return (
     <>
       <div className="project">
-        <h1 className="title">Projects</h1>
+        <center>
+          <h1 className="projects-title">Projects</h1>
+        </center>
       </div>
 
       <Wrapper>
