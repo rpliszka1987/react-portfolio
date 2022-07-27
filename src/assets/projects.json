@@ -7,25 +7,18 @@
         "heroku": "https://secure-reaches-05381.herokuapp.com/"
     },
     {
-        "id": 1,
-        "name": "Easy-Shop",
-        "image": "https://github.com/rpliszka1987/Easy-Shop-Project/blob/main/images/Homepage.png?raw=true",
-        "github": "https://github.com/rpliszka1987/Easy-Shop-Project",
-        "heroku": "https://secure-reaches-05381.herokuapp.com/"
+        "id": 2,
+        "name": "Photo-Port",
+        "image": "https://github.com/rpliszka1987/photo-port/blob/main/src/assets/images/Homepage.png?raw=true",
+        "github": "https://github.com/rpliszka1987/photo-port",
+        "heroku": "http://rpliszka87.github.io/photo-port"
     },
     {
-        "id": 1,
-        "name": "Easy-Shop",
-        "image": "https://github.com/rpliszka1987/Easy-Shop-Project/blob/main/images/Homepage.png?raw=true",
-        "github": "https://github.com/rpliszka1987/Easy-Shop-Project",
-        "heroku": "https://secure-reaches-05381.herokuapp.com/"
-    },
-    {
-        "id": 1,
-        "name": "Easy-Shop",
-        "image": "https://github.com/rpliszka1987/Easy-Shop-Project/blob/main/images/Homepage.png?raw=true",
-        "github": "https://github.com/rpliszka1987/Easy-Shop-Project",
-        "heroku": "https://secure-reaches-05381.herokuapp.com/"
+        "id": 3,
+        "name": "Budget-Tracker",
+        "image": "https://github.com/rpliszka1987/budget-tracker/blob/main/images/Homepage.png?raw=true",
+        "github": "https://github.com/rpliszka1987/budget-tracker",
+        "heroku": "https://whispering-headland-93388.herokuapp.com/"
     }
 
 ]
