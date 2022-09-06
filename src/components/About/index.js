@@ -21,34 +21,16 @@ function About() {
               <h2 id="my-career">Junior Developer</h2>
             </center>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam
-              iusto hic nesciunt quisquam nostrum quae inventore fugiat cumque
-              minus corporis, quia eius aspernatur odit eaque officia cum veniam
-              molestiae facere, illum ipsa itaque modi. Quasi placeat voluptatum
-              perspiciatis consequatur sit tenetur delectus, architecto
-              doloribus voluptas sunt minus laborum repellendus sapiente fugit
-              illo, nostrum consequuntur rerum minima perferendis voluptate?
-              Laborum, quaerat, sapiente, reiciendis assumenda corporis eius
-              optio itaque placeat nam officiis fugiat eligendi obcaecati
-              consequatur doloremque pariatur at natus modi blanditiis est
-              eveniet. Laudantium dolores beatae quisquam blanditiis nostrum
-              harum eligendi ipsum officiis doloribus! Inventore aliquam dolor
-              eius qui, laborum obcaecati.
+              My name is Robert Pliszka and I am a recent graduate from Columbia Engineering Boot Camp,
+              where for 24 for weeks I been exposed to multiple development technologies. This course has prepared me 
+              for a career in Web Development as a Full Stack Developer. Used React.js, MongoDB, GraphQL, etc 
+              to build projects which can be found on my portfolio link. Before development I was an 
+              Account Executive for Follett School Solutions for 12 years, but wanted to make a switch and follow my 
+              passion for development. I am a hard worker that likes to achieve targets, and enjoy working
+              with a team. Currently lookinh for a new place to start my Web Development journey. 
+
             </p>
-            <p>
-              Dolorem nam ipsa nulla minima aliquid magni veniam, mollitia
-              eligendi cumque eaque aliquam placeat ut fugiat esse soluta est
-              sunt tenetur quae minus odit natus. Aspernatur voluptates nobis,
-              doloribus dolorum suscipit mollitia officia iure sequi.
-              Voluptates, sequi! Unde harum cum perspiciatis quaerat aspernatur
-              et aperiam obcaecati similique quisquam reiciendis doloremque
-              laudantium laboriosam, illum suscipit soluta magnam quam sed eum!
-              Laborum exercitationem, nemo quae earum ea mollitia, libero a
-              dolorem ex enim nisi soluta odio cupiditate tempore nam beatae
-              sunt ipsa, architecto eveniet et? Tempore laudantium rem dolor,
-              autem corporis architecto odio, temporibus nulla ipsam eligendi
-              illo alias sit similique quasi.
-            </p>
+            
           </div>
         </dic>
       </div>
