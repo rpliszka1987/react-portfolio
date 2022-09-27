@@ -13,6 +13,9 @@ function ProjectCard(props) {
             <p className="project-title">{props.name}</p>
           </li>
           <li>
+            <p className="project-description">{props.description} </p>
+          </li>
+          <li>
             <div className="project-icons">
               <a href={props.github}>
                 <img
@@ -54,6 +57,7 @@ function Projects() {
           <ProjectCard
             name={project.name}
             key={project.id}
+            description={project.description}
             image={project.image}
             github={project.github}
             heroku={project.heroku}
