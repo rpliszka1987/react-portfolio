@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name": "Easy-Shop",
+        "description": "Application for a ecomerce store. User is able to list items for sale.",
         "image": "https://github.com/rpliszka1987/Easy-Shop-Project/blob/main/images/Homepage.png?raw=true",
         "github": "https://github.com/rpliszka1987/Easy-Shop-Project",
         "heroku": "https://secure-reaches-05381.herokuapp.com/"
@@ -9,6 +10,7 @@
     {
         "id": 2,
         "name": "Photo-Port",
+        "description": "Photography portfolio page. User can display their work online.",
         "image": "https://github.com/rpliszka1987/photo-port/blob/main/src/assets/images/Homepage.png?raw=true",
         "github": "https://github.com/rpliszka1987/photo-port",
         "heroku": "https://blooming-everglades-91926.herokuapp.com/"
@@ -16,6 +18,7 @@
     {
         "id": 3,
         "name": "Budget-Tracker",
+        "description": "Application to keep track of your budget.",
         "image": "https://github.com/rpliszka1987/budget-tracker/blob/main/images/Homepage.png?raw=true",
         "github": "https://github.com/rpliszka1987/budget-tracker",
         "heroku": "https://whispering-headland-93388.herokuapp.com/"
@@ -23,6 +26,7 @@
     {
         "id": 4,
         "name": "Purrfect Paws",
+        "description": "Application used for a grooming center to keep track of their orders, schedule, and income.",
         "image": "https://user-images.githubusercontent.com/94888460/182508238-2e0de539-5b95-4890-ac3c-36beb423c9c1.png",
         "github": "https://github.com/rpliszka1987/purrfect-paws",
         "heroku": "https://purrfect-paws.herokuapp.com/"
@@ -30,6 +34,7 @@
     {
         "id": 5,
         "name": "Tech Blog",
+        "description": "Technology blogging website. Learn about new tech coming out.",
         "image": "https://github.com/rpliszka1987/tech-blog/blob/main/images/Homepage.png?raw=true",
         "github": "https://github.com/rpliszka1987/tech-blog",
         "heroku": "http://fierce-badlands-64844.herokuapp.com/"
