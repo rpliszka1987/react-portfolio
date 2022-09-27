@@ -127,3 +127,8 @@ button {
   align-content: flex-start;
   overflow: auto;
 }
+
+.contact-me {
+  display: flex;
+  justify-content: space-around;
+}
