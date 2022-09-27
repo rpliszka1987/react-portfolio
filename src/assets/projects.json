@@ -11,7 +11,7 @@
         "name": "Photo-Port",
         "image": "https://github.com/rpliszka1987/photo-port/blob/main/src/assets/images/Homepage.png?raw=true",
         "github": "https://github.com/rpliszka1987/photo-port",
-        "heroku": "http://rpliszka87.github.io/photo-port"
+        "heroku": "https://blooming-everglades-91926.herokuapp.com/"
     },
     {
         "id": 3,
@@ -19,6 +19,20 @@
         "image": "https://github.com/rpliszka1987/budget-tracker/blob/main/images/Homepage.png?raw=true",
         "github": "https://github.com/rpliszka1987/budget-tracker",
         "heroku": "https://whispering-headland-93388.herokuapp.com/"
+    },
+    {
+        "id": 4,
+        "name": "Purrfect Paws",
+        "image": "https://user-images.githubusercontent.com/94888460/182508238-2e0de539-5b95-4890-ac3c-36beb423c9c1.png",
+        "github": "https://github.com/rpliszka1987/purrfect-paws",
+        "heroku": "https://purrfect-paws.herokuapp.com/"
+    },
+    {
+        "id": 5,
+        "name": "Tech Blog",
+        "image": "https://github.com/rpliszka1987/tech-blog/blob/main/images/Homepage.png?raw=true",
+        "github": "https://github.com/rpliszka1987/tech-blog",
+        "heroku": "http://fierce-badlands-64844.herokuapp.com/"
     }
 
 ]
