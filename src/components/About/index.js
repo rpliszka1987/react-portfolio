@@ -18,9 +18,9 @@ function About() {
           <div className="d-flex flex-column justify-content-center">
             <center>
               <h1 id="my-name">Robert Pliszka</h1>
-              <h2 id="my-career">Junior Developer</h2>
+              <h4 id="my-career">Junior Developer</h4>
             </center>
-            <p>
+            <p className="about-me-paragraph">
               My name is Robert Pliszka and I am a recent graduate from Columbia Engineering Boot Camp,
               where for 24 for weeks I been exposed to multiple development technologies. This course has prepared me 
               for a career in Web Development as a Full Stack Developer. Used React.js, MongoDB, GraphQL, etc 

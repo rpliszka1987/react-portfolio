@@ -24,7 +24,10 @@
   color: white;
 }
 
-
+.about-me-paragraph {
+  text-indent: 50px;
+  padding-top: 30px;
+}
 
 .App-link {
   color: #61dafb;
