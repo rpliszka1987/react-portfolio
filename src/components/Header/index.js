@@ -3,6 +3,7 @@ import Nav from "../Nav";
 import About from "../About";
 import Projects from '../Projects';
 import Contact from '../Contact';
+import ContactMe from '../ContactMe'
 import Footer from "../Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -16,7 +17,7 @@ function Portfolio() {
       case "about":
         return <About></About>;
         case "contact":
-          return <Contact></Contact>;
+          return <ContactMe></ContactMe>;
       case "portfolio":
         return <Projects></Projects>;
       default:
