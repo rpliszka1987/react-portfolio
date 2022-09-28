@@ -11,6 +11,7 @@ function ProjectCard(props) {
         <ul>
           <li>
             <p className="project-title">{props.name}</p>
+            <hr/>
           </li>
           <li>
             <p className="project-description">{props.description} </p>
@@ -22,6 +23,7 @@ function ProjectCard(props) {
                   src="https://img.icons8.com/ios/40/000000/github.png"
                   alt="github-icon"
                   id="port-icon"
+                  className="project-icon"
                 />
               </a>
               <a href={props.heroku}>
@@ -29,6 +31,7 @@ function ProjectCard(props) {
                   src="https://img.icons8.com/ios/50/000000/domain.png"
                   alt="app-icon"
                   id="port-icon"
+                  className="project-icon"
                 />
               </a>
             </div>
