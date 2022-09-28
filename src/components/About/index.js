@@ -27,7 +27,7 @@ function About() {
               to build projects which can be found on my portfolio link. Before development I was an 
               Account Executive for Follett School Solutions for 12 years, but wanted to make a switch and follow my 
               passion for development. I am a hard worker that likes to achieve targets, and enjoy working
-              with a team. Currently lookinh for a new place to start my Web Development journey. 
+              with a team. Currently looking for a new place to start my Web Development journey. 
 
             </p>
             
