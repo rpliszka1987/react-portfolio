@@ -10,6 +10,20 @@
   color: #fff
 }
 
+a:link {
+  text-decoration: none;
+}
+
+address {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-header {
+  text-align: center;
+  padding-bottom: 40px
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
